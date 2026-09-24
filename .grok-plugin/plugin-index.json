@@ -919,8 +919,8 @@
       }
     },
     "stripe": {
-      "sha": "99ef7ddd24df10b78f2e0eba98c577349dd01611",
-      "version": "0.8.4",
+      "sha": "a682cd5788a6fbcc64dadf872ea91d1f0da1908c",
+      "version": "0.8.5",
       "components": {
         "agents": [
           {
@@ -983,7 +983,7 @@
           },
           {
             "name": "upgrade-stripe",
-            "description": "Guide for upgrading Stripe API versions and SDKs"
+            "description": "Guide for upgrading Stripe API versions, webhook endpoints, server-side SDKs, Stripe.js, and mobile SDKs"
           }
         ]
       }
