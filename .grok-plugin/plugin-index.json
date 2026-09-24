@@ -1165,8 +1165,8 @@
       }
     },
     "vercel": {
-      "sha": "1a2a5cd21f991d816bcf9ac9184ba14a8b1cb2b8",
-      "version": "0.50.0",
+      "sha": "95fdc4581f2f8becba437e8c95d416af2dc94605",
+      "version": "0.50.1",
       "components": {
         "agents": [
           {
@@ -1261,8 +1261,16 @@
             "description": "Backend architecture guidance. Use when planning, building, or migrating an API or backend; choosing between Functions,…"
           },
           {
+            "name": "custom-metrics",
+            "description": "Emit and query Vercel Custom Metrics. Use when instrumenting application or business measurements in Vercel Functions,…"
+          },
+          {
             "name": "deployments-cicd",
             "description": "Vercel deployment and CI/CD expert guidance. Use when deploying, promoting, rolling back, inspecting deployments, build…"
+          },
+          {
+            "name": "domains",
+            "description": "Search, register, connect, transfer, and renew domain names on Vercel using the CLI or Domains Registrar API. Use for d…"
           },
           {
             "name": "env-vars",
